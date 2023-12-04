@@ -8,8 +8,10 @@
 
 /* Navbar */
 .navbar {
+   
     padding: 2rem;
-    background-color: #f5f6f7;
+    background-color: #000000;
+   
 }
 
 .navbar-nav {
@@ -19,6 +21,9 @@
 .navbar-collapse {
     align-items: center;
     justify-content: space-between;
+}
+.navbar a {
+    color:#CCCCCC;
 }
 
 /* MyClass */
